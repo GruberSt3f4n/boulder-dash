@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+
 jobs:
   super-lint:
     name: Lint code base
